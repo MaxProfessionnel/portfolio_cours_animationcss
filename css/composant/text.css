@@ -1,0 +1,30 @@
+p, li{
+    font-family:sans-serif;
+}
+h1{
+    font-family: 'Michroma', sans-serif;
+    
+}
+
+.container_ac p{
+    font-family:sans-serif;
+    color:white;
+}
+.container_ac h2{
+    color:white;
+    font-family: 'Michroma', sans-serif;
+    padding: 10px;
+}
+
+li{
+    list-style-type: none;
+}
+
+h3{
+    padding:30px;
+    font-style: italic;
+}
+
+footer p{
+    padding-top: 10px;
+}
